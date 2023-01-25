@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Block
+  - Breakable
+  - Unbreakable
+  - Paddle
+  - Wall
+  - Launch Point
+  - Ball Spitter
+  - Loop Left
+  - Loop Right
+  - Loop Up
+  - Loop Down
+  - Obj One
+  - Obj Two
+  - Obj Three
+  - Obj Four
+  - Check Point
+  - Ball Saver Hold Position Left
+  - Ball Saver Hold Position Right
+  - Tandem Obj
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Environment
+  - PowerUp
+  - Ball
+  - Default Yes Ball No
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
